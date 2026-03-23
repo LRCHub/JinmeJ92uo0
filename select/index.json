@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Echoism",
+  "base_artist": "塞壬唱片-MSR、Adam Gubman和Casey Lee Williams",
+  "createdAt": "2026-03-23T13:08:23.306768Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Echoism",
+      "artist": "塞壬唱片-MSR",
+      "has_synced": true,
+      "path": "select/01_Echoism_塞壬唱片-MSR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Echoism",
+      "artist": "塞壬唱片-MSR & Adam Gubman",
+      "has_synced": true,
+      "path": "select/02_Echoism_塞壬唱片-MSR_&_Adam_Gubman.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Echoism",
+      "artist": "塞壬唱片-MSR, Adam Gubman, & Casey Lee Williams",
+      "has_synced": true,
+      "path": "select/03_Echoism_塞壬唱片-MSR,_Adam_Gubman,_&_Casey_Lee_Williams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Echoism (Instrumental Version)",
+      "artist": "塞壬唱片-MSR, Adam Gubman, Casey Lee Williams",
+      "has_synced": false,
+      "path": "select/04_Echoism_(Instrumental_Version)_塞壬唱片-MSR,_Adam_Gubman,_Casey_Lee_Williams.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Echoism",
+      "artist": "塞壬唱片-MSR, Adam Gubman & Casey Lee Williams",
+      "has_synced": true,
+      "path": "select/05_Echoism_塞壬唱片-MSR,_Adam_Gubman_&_Casey_Lee_Williams.lrc"
+    }
+  ]
+}
